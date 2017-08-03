@@ -9,5 +9,5 @@
         args:
           - -c
           - |
-            echo "hello Bob!!!" > greeting
+            echo "hello Mancito!!!" > greeting
             cat greeting
